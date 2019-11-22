@@ -1,1 +1,1 @@
-# camscan
+# CAMERA to SCAN with opencv
